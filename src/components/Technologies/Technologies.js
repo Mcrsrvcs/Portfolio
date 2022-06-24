@@ -9,8 +9,7 @@ const Technologies = () =>  (
    <br />
 <SectionTitle>Technologies</SectionTitle>
 <SectionText>
-  about work 
-  Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto soluta molestias minus aut asperiores ipsa laboriosam sunt. Quod asperiores impedit 
+We use Modren UI technologies and most popular frontend library REACTjs with Tailwindcss and Material UI to make websites and webapps beautiful. 
 </SectionText>
 <List>
   <ListItem>
@@ -26,10 +25,10 @@ const Technologies = () =>  (
   <ListItem>
     <DiFirebase size="3rem" />
     <ListContainer>
-      <ListTitle>Back-End</ListTitle>
+      <ListTitle>APIs</ListTitle>
       <ListParagraph>
         Exprience With <br />
-        Node and Databases
+        Node and Express
       </ListParagraph>
     </ListContainer>
   </ListItem>

@@ -14,7 +14,7 @@ const Hero = () => (
       <SectionText>
         I'm a Frontend Developer.I can develop React webapps with interactive UI/UX designs.I created many apps using react.js, next.js, tailwindCss and More... 
       </SectionText>
-      <Button onClick={()=>window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={()=>window.scrollBy(0,800)}>Learn More</Button>
     </LeftSection>
   </Section>
 );
